@@ -1,6 +1,5 @@
 import {Service} from "./service/Service";
 import {HttpResponse} from "./HttpResponse";
-import {Item} from "./interface/Item";
 
 export class Main {
     protected service;
